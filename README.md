@@ -2,16 +2,6 @@
 
 
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [App Preview](#app-preview)
-- [Deploying](#deploying)
-  - [Progressive Web App](#progressive-web-app)
-  - [Android](#android)
-  - [iOS](#ios)
-
-
 ## Getting Started
 
 * [Download the installer](https://nodejs.org/) for Node LTS.
